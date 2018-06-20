@@ -1,7 +1,7 @@
 # TicTacToe
 TicTacToe in Python
 
-Input the position refering below graph
+Input the position refering the below graph
 
     1 | 2 | 3
     4 | 5 | 6
